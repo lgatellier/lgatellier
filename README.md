@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a DevOps Platform Engineer who mainly works with Infrastructure as Code and Kubernetes-related technologies.
+I'm a DevOps Platform Engineer who mainly works with Infrastructure as Code, CI/CD and Kubernetes-related technologies.
 
 <p align="center">
     <a href="https://github.com/lgatellier/">
