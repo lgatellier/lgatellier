@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I'm a DevOps Platform Engineer who mainly works with Infrastructure as Code, CI/CD and Kubernetes-related technologies.
+I'm a developer who went though the Ops' world and became an SRE. I mainly work on CI stuff using Jenkins, Gradle, Kubernetes and Golang.
+
+Currently working at @Criteo as a Senior SRE in the Build Services (Continuous Integration-related tooling) team.
 
 <p align="center">
     <a href="https://github.com/lgatellier/">
